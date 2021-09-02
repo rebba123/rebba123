@@ -1,6 +1,6 @@
-![Logo](https://th.bing.com/th/id/R.d7254e416786f83b2d03434983596c7d?rik=KppVHVGdW7pVGA&riu=http%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f10%2fcoding-gif-8.gif&ehk=NTerO%2fCfb%2bk2XYMpnDOwz0GUkYx0eiNWuHjZUbYzNuo%3d&risl=&pid=ImgRaw&r=0)
-
 ![Logo](https://www.congruentsoft.com/Images/bi/bi-dashboard.gif)
+
+![Logo](https://th.bing.com/th/id/OIP.Qd3LS4-aq7CvG-oIXlhi2AHaD4?w=293&h=180&c=7&r=0&o=5&pid=1.7)
 
 # Hey there! :) 👋 I'm Naveen
 

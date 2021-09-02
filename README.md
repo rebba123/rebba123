@@ -2,7 +2,7 @@
 
 ![Logo](https://th.bing.com/th/id/OIP.Qd3LS4-aq7CvG-oIXlhi2AHaD4?w=293&h=180&c=7&r=0&o=5&pid=1.7)
 
-# Hey there! :) 👋 I'm Naveen
+# Hey there! :) 👋 This is Naveen
 
 I'm Rebba Naveen I'm currently pursuing Btech and I'm the one who has Strong analytical and problem solving skills with good knowledge of popular tools and Libraries for Data Analysis and Data visulaization.
 I'm passionate about analyzing the real world problems by using advanced tools which would be more helpful for the company. 
@@ -15,7 +15,7 @@ I'm passionate about analyzing the real world problems by using advanced tools w
 
 🥅 Goals : To contribute Open source ML& DL projects.
 
-⚡️ Rech me on : rebbanaveen2000@gmail.com
+⚡️ Rech me on : rebbanaveen1234@gmail.com
 
 💬 Ask me about anything! Happy to help 
 

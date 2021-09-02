@@ -4,6 +4,7 @@
 
 I'm Rebba Naveen I'm currently pursuing Btech and I'm the one who has Strong analytical and problem solving skills with good knowledge of popular tools and Libraries for Data Analysis and Data visulaization.
 I'm passionate about analyzing the real world problems by using advanced tools which would be more helpful for the company. 
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 🔭 I'm working on My portfolio website : wix

@@ -1,4 +1,4 @@
-![Logo](https://media.tenor.co/images/0f88096e2fcaff85b928b2ad7b07b133/tenor.gif)
+![Logo](https://th.bing.com/th/id/R.d7254e416786f83b2d03434983596c7d?rik=KppVHVGdW7pVGA&riu=http%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f10%2fcoding-gif-8.gif&ehk=NTerO%2fCfb%2bk2XYMpnDOwz0GUkYx0eiNWuHjZUbYzNuo%3d&risl=&pid=ImgRaw&r=0)
 
 # Hey there! :) 👋 I'm Naveen
 

@@ -1,5 +1,7 @@
 ![Logo](https://th.bing.com/th/id/R.d7254e416786f83b2d03434983596c7d?rik=KppVHVGdW7pVGA&riu=http%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f10%2fcoding-gif-8.gif&ehk=NTerO%2fCfb%2bk2XYMpnDOwz0GUkYx0eiNWuHjZUbYzNuo%3d&risl=&pid=ImgRaw&r=0)
 
+![Logo](https://www.congruentsoft.com/Images/bi/bi-dashboard.gif)
+
 # Hey there! :) 👋 I'm Naveen
 
 I'm Rebba Naveen I'm currently pursuing Btech and I'm the one who has Strong analytical and problem solving skills with good knowledge of popular tools and Libraries for Data Analysis and Data visulaization.

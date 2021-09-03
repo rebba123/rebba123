@@ -1,6 +1,5 @@
 ![Logo](https://www.congruentsoft.com/Images/bi/bi-dashboard.gif)
 
-![Logo](https://th.bing.com/th/id/OIP.Qd3LS4-aq7CvG-oIXlhi2AHaD4?w=293&h=180&c=7&r=0&o=5&pid=1.7)
 
 # Hey there! :) 👋 This is Naveen
 
@@ -23,6 +22,8 @@ I'm passionate about analyzing the real world problems by using advanced tools w
 
 
 ### Languages and Tools 
+
+![Logo](https://www.bing.com/th/id/OGC.81178b47a8598f0c81c4799f2cdd4057?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f2131993%2fscreenshots%2f4948736%2fthoughtworks-gif_dribbble.gif&ehk=NNfOMQ6dfiA3eWWZAhI73QT3tX1lMjqFSSH4bXYrTAo%3d)
 
 
 ![python](https://th.bing.com/th/id/OIP.xePC9eCXE-p7xCpCMUAaFgHaHa?w=177&h=180&c=7&r=0&o=5&pid=1.7)
